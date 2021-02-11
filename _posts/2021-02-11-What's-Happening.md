@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: Cybersecurity: Is It Worse than We Think?
 subtitle: What's Happening?
-tags: [reading, reflection, software]
+tags: [reading, reflection, cybersecurity, CoACM]
 ---
 
 In today's post, I will be discussing the article **"Cybersecurity: Is It Worse than We Think?"** from the CoACM Magazine. Written by Chris Maurer, Kevin Kim, Dan Kim, and Leon A. Kappelman, the article discusses the improvements companies have made in terms of prioritizing cybersecurity while also concluding that those efforts may not be enough. 
