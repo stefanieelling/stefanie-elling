@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Hello!
-subtitle: Introduction
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+title: Cybersecurity
+subtitle: What's Happening?
+tags: [reading, reflection, cybersecurity, CoACM]
 ---
 
 ## Introduction
