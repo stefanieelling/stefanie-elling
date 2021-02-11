@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching Open Source Exercises
+title: Bug Exercises
 subtitle: This Bugs Me
 tags: [reading, reflection, open-source, bugs, zulip]
 ---
