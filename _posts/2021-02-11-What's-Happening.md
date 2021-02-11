@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Cybersecurity: Is It Worse than We Think? 
+title: Cybersecurity: Is It Worse than We Think?
 subtitle: What's Happening?
 tags: [reading, reflection, software]
 ---
