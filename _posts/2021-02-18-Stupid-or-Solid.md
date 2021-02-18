@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Stupid or Solid? 
+title: Stupid or Solid
 subtitle: Stupid or Solid?
+tags: [blog, coding]
 ---
+
+
+
 
 
