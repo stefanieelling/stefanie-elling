@@ -1,8 +1,7 @@
-
----
+--- 
 layout: post
-title: Meeting the CS Community in Charleston
-subtitle: Meeting Charleston
+title: Meeting Charleston
+subtitle: CofC Alumni Symposium 
 ---
 
 ## Reflection on the Alumni Symposium
