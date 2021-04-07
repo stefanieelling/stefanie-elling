@@ -11,3 +11,4 @@ This [article](https://https://opensource.com/article/21/1/open-source-business)
 
 
 ## How Open Source is Helping Solve the Plastic Pollution Problem
+Whereas this [article](https://https://opensource.com/article/21/1/openlittermap) dives into how open source is becoming a sustainable solution.
