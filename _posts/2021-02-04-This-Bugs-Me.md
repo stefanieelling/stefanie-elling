@@ -18,8 +18,15 @@ For this exercise, I tried to recreate this [issue](https://github.com/zulip/zul
 
 ## Exercise 6.7 - Bug Triage
 For this exercise, I decided to 'triage' these five exercises: 
-* [issue](https://github.com/zulip/zulip/issues/17156)
-* [issue](https://github.com/zulip/zulip/issues/17147)
-* [issue](https://github.com/zulip/zulip/issues/17059)
-* [issue](https://github.com/zulip/zulip/issues/17037)
-* [issue](https://github.com/zulip/zulip/issues/17009)
+* [Issue #17156](https://github.com/zulip/zulip/issues/17156)
+* [Issue #17147](https://github.com/zulip/zulip/issues/17147)
+* [Issue #17059](https://github.com/zulip/zulip/issues/17059)
+* [Issue #17037](https://github.com/zulip/zulip/issues/17037)
+* [Issue #17009](https://github.com/zulip/zulip/issues/17009)
+
+The textbook explains that a bug triage comes from the same approach used in medical fields, where professionals must determine which patients are prioritized. Thus, I have ranked these five issues based on their importance to Zulip. 
+* [Issue #17147](https://github.com/zulip/zulip/issues/17147)
+* [Issue #17009](https://github.com/zulip/zulip/issues/17009)
+* [Issue #17156](https://github.com/zulip/zulip/issues/17156)
+* [Issue #17059](https://github.com/zulip/zulip/issues/17059)
+* [Issue #17037](https://github.com/zulip/zulip/issues/17037)
