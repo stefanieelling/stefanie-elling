@@ -25,8 +25,8 @@ For this exercise, I decided to 'triage' these five exercises:
 * [Issue #17009](https://github.com/zulip/zulip/issues/17009)
 
 The textbook explains that a bug triage comes from the same approach used in medical fields, where professionals must determine which patients are prioritized. Thus, I have ranked these five issues based on their importance to Zulip. 
-* [Issue #17147](https://github.com/zulip/zulip/issues/17147)
-* [Issue #17009](https://github.com/zulip/zulip/issues/17009)
-* [Issue #17156](https://github.com/zulip/zulip/issues/17156)
-* [Issue #17059](https://github.com/zulip/zulip/issues/17059)
-* [Issue #17037](https://github.com/zulip/zulip/issues/17037)
+* [Problem inviting users #17147](https://github.com/zulip/zulip/issues/17147)
+* [Add option to specify which users can create public and private streams separately. #17009](https://github.com/zulip/zulip/issues/17009)
+* [widgets: Prevent edits to /poll and /todo messages. #17156](https://github.com/zulip/zulip/issues/17156)
+* [Add "send test notification" button in settings #17059](https://github.com/zulip/zulip/issues/17059)
+* [Add ability to search for custom emojis. #17037](https://github.com/zulip/zulip/issues/17037)
