@@ -5,7 +5,6 @@ subtitle: This Bugs Me
 tags: [reading, reflection, open-source, bugs, zulip]
 ---
 For today's blog, I discuss my experiences with exercises from Chapter 6 of Teaching Open Source and debugging a FOSS project. 
-Do exercises in TOS 6.4, 6.5, 6.6, 6.7;
 
 ## Exercise 6.4 - Find the Oldest Bug
 The oldest open Zulip [issue](https://github.com/zulip/zulip/issues/39) is "Installation Script Breaks Other Sites #39" and dates back to September 26, 2015. Zulip's installation seems to override configuration files and lacks an uninstallation script. This becomes a major issue if anything else is running on your server at the same time you install Zulip. Specifically, it clashes with nginx's main configuration. The only solution to this issue was adding a warning to a README file for users rather than fixing the actual problem. In another FOSS project I worked on, it was crucial to uninstall the installation script and I personally had to edit some of the configuration files. This issue means that Zulip is required to be installed in global scope rather than accounting for other softwares to be running at the same time. Personally, I am not equipped to solve this specific bug but hopefully someone will soon. 
